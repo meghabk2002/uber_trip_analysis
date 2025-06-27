@@ -43,7 +43,7 @@ This Power BI dashboard provides an interactive analysis of Uber trip data to id
 
 ## 📷 Dashboard Snapshot
 
-![Uber Trip Analysis Dashboard](insert_image_link_here)
+![Uber Trip Analysis Dashboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Findia%2Fcomments%2F1grbftl%2Fuber_india_introduces_instant_payments_to_tackle%2F&psig=AOvVaw28odFIuK8ilHsrt3DnerSe&ust=1751081703595000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi9-e3VkI4DFQAAAAAdAAAAABAK))
 
 ---
 
