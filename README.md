@@ -42,7 +42,8 @@ The primary goal of this project is to **analyze and visualize Uber's dispatch-l
 
 ## 📷 Dashboard Snapshot
 
-![Uber Trip Analysis Dashboard](https://github.com/meghabk2002/uber_trip_analysis/blob/main/uber%20trip.png)
+![Uber Trip Analysis Dashboard](https://github.com/user-attachments/assets/ffb9ad3f-80ab-42d5-9da8-c11c6e1957e1)
+
 
 ---
 
