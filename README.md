@@ -43,7 +43,7 @@ This Power BI dashboard provides an interactive analysis of Uber trip data to id
 
 ## 📷 Dashboard Snapshot
 
-![Uber Trip Analysis Dashboard](insert_image_link_here)
+![Uber Trip Analysis Dashboard](https://github.com/meghabk2002/uber_trip_analysis/blob/main/uber%20trip.png)
 
 ---
 
