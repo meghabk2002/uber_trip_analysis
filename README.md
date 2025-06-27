@@ -67,7 +67,10 @@ This Power BI dashboard provides an interactive analysis of Uber trip data to id
 
 ## 📣 Contact
 
-👩‍💻 Megha BK  
-🔗  
+**Megha BK**  
+🎓 Post Graduate in Data Science and Analytics  
+📊 Passionate about visual storytelling with Power BI  
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/megha-bk-718265222/)
+
 ---
 
